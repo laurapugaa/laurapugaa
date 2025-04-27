@@ -1,8 +1,6 @@
-<h1 align="center">Olá, eu sou a Laura de Miranda Puga! 👋</h1>
+<h1 align="center">Olá, eu sou a Laura Puga! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Apaixonada+por+Tecnologia+e+Educação;Em+busca+de+constante+evolução+🚀" alt="Typing SVG" />
-</p>
+Desenvolvedora Front-End | Apaixonada por Tecnologia e Educação | Em busca de constante evolução 🚀
 
 ---
 
@@ -17,6 +15,7 @@
   <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Laura-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Laura-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Laura-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -57,30 +56,15 @@
 ## ✨ Vamos nos conectar!
 
 <div> 
-  <a href="https://www.linkedin.com/in/laurapuga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:laurampuga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laurapuga-software-engineering" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:laurademirandapuga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:laurapuga@alu.ufc.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Email%20Alternativo-blue?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=150&section=footer"/>
 </p>
-
-
-
-
-<!--
-**laurapugaa/laurapugaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
