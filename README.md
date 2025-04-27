@@ -26,9 +26,7 @@ Desenvolvedora Front-End | Apaixonada por Tecnologia e Educação | Em busca de 
 
 ## 📚 Atualmente estudando:
 
-- 🧩 Programação Orientada a Objetos (POO)
-- 🧠 Estruturas de Dados
-- 🎯 Melhores práticas com **JavaScript**, **Vue.js** e **React.js**
+- 🎯 Tecnologias Front-End com **JavaScript**, **Vue.js** e **React.js**
 - 📚 Pesquisa científica e análise de dados
 - 🛠️ Metodologias Ágeis como Scrum e Kanban
 
