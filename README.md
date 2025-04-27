@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Olá, eu sou a Laura de Miranda Puga! 👋</h1>
 
 <p align="center">
@@ -9,9 +7,7 @@
 ---
 
 🎓 **Estudante de Engenharia de Software** na Universidade Federal do Ceará - Campus Russas.  
-💻 **Atualmente voluntária no projeto de Reengenharia PRISMA.EDU** como Desenvolvedora Front-End.  
-🌟 **Aprendiz no projeto acadêmico NERDS** (Núcleo Especializado em Reengenharia e Desenvolvimento de Software).  
-🔍 **Monitora de laboratório de programação**.
+📚 **Bolsista PAIP** no projeto PROGETE, apoiando estudantes de Engenharia de Software e Ciência da Computação com orientação acadêmica, suporte burocrático e ações de combate à evasão universitária.
 
 ---
 
@@ -33,7 +29,7 @@
 
 - 🧩 Programação Orientada a Objetos (POO)
 - 🧠 Estruturas de Dados
-- 🎯 Melhores práticas com **JavaScript** e **Vue.js**
+- 🎯 Melhores práticas com **JavaScript**, **Vue.js** e **React.js**
 - 📚 Pesquisa científica e análise de dados
 - 🛠️ Metodologias Ágeis como Scrum e Kanban
 
@@ -45,6 +41,16 @@
 - 🧩 Organizei dailys, planejei sprints e validei requisitos em projetos acadêmicos.
 - ✍️ Escrevi artigos sobre experiências de aprendizado em tecnologia.
 - 🔥 Em constante evolução, aprendendo todos os dias com projetos reais e pesquisa.
+
+---
+
+💻 Atuei como voluntária no projeto de Reengenharia PRISMA.EDU, desenvolvendo aplicações Front-End com tecnologias como JavaScript, HTML5, CSS3 e Vue.js.
+
+🌟 Fui aprendiz no projeto acadêmico NERDS (Núcleo Especializado em Reengenharia e Desenvolvimento de Software), onde desenvolvi habilidades em projetos ágeis e colaboração em equipe.
+
+🧪 Fui bolsista PIBIC, realizando pesquisas acadêmicas, revisão de literatura e organização de cursos de Fundamentos de Programação para alunos ingressantes na UFC.
+
+📝 Atuei como voluntária em projeto de pesquisa e extensão, contribuindo com a redação de artigo científico, análise de dados, apoio em cursos de Git e GitHub na prática e produção de conteúdo para mídias e redes sociais acadêmicas.
 
 ---
 
