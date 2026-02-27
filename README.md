@@ -5,14 +5,18 @@ Desenvolvedora Front-End | QA em formação | Apaixonada por Tecnologia e Educa�
 ---
 
 🎓 **Estudante de Engenharia de Software** na Universidade Federal do Ceará - Campus Russas. 
+
 💼 Atualmente atuando como **Trainee** na área de **Qualidade de Software**.
-📚 **Bolsista PAIP** no projeto PROGETE, apoiando estudantes de Engenharia de Software e Ciência da Computação com orientação acadêmica, suporte burocrático e ações de combate à evasão universitária.
 
 ---
 
 ## 🚀 Tecnologias que uso e estudo:
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Laura-RobotFramework" height="30" width="40" src="https://cdn.simpleicons.org/robotframework">
+  <img align="center" alt="Laura-Cypress" height="30" width="40" src="https://cdn.simpleicons.org/cypress">
+  <img align="center" alt="Laura-JMeter" height="30" width="40" src="https://cdn.simpleicons.org/apachejmeter">
+  <img align="center" alt="Laura-K6" height="30" width="40" src="https://cdn.simpleicons.org/k6">
   <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -54,6 +58,8 @@ Robot Framework - Cypress - Jmeter - Grafana K6 - Js - HTML - CSS - React - Vue 
 
 ## 🛤️ Um pouco sobre minha trajetória:
 
+- 💼 Experiência com elaboração de **Planos de Testes** e **Sumário de Testes de Software**.
+- 🛠️ Conhecimento e experiência com ferramentas como **Jira, Azure, Testlink, Redmine**.
 - 💡 Participei e ministrei cursos de **Fundamentos de Programação** e **Git/GitHub**.
 - 🧩 Organizei dailys, planejei sprints e validei requisitos em projetos acadêmicos.
 - ✍️ Escrevi artigos sobre experiências de aprendizado em tecnologia.
