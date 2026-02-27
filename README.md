@@ -1,10 +1,11 @@
 <h1 align="center">Olá, eu sou a Laura Puga! 👋</h1>
 
-Desenvolvedora Front-End | Apaixonada por Tecnologia e Educação | Em busca de constante evolução 🚀
+Desenvolvedora Front-End | QA em formação | Apaixonada por Tecnologia e Educação | Em constante evolução 🚀
 
 ---
 
-🎓 **Estudante de Engenharia de Software** na Universidade Federal do Ceará - Campus Russas.  
+🎓 **Estudante de Engenharia de Software** na Universidade Federal do Ceará - Campus Russas. 
+💼 Atualmente atuando como **Trainee** na área de **Qualidade de Software**.
 📚 **Bolsista PAIP** no projeto PROGETE, apoiando estudantes de Engenharia de Software e Ciência da Computação com orientação acadêmica, suporte burocrático e ações de combate à evasão universitária.
 
 ---
@@ -24,9 +25,28 @@ Desenvolvedora Front-End | Apaixonada por Tecnologia e Educação | Em busca de 
 
 ---
 
+## 🧪 Experiência em Qualidade de Software
+
+🔹 Experiência profissional de 6 meses na área de QA  
+🔹 Execução de testes funcionais e não funcionais  
+🔹 Testes de API e testes de carga (JMeter e K6)  
+🔹 Testes manuais e automatizados  
+🔹 Automação de testes com Robot Framework e Cypress  
+🔹 Modelagem de testes  
+🔹 Revisão e validação de requisitos  
+🔹 Elaboração de sumário de testes e plano de testes  
+
+---
+
+## 🚀 Tecnologias que uso e estudo
+
+Robot Framework - Cypress - Jmeter - Grafana K6 - Js - HTML - CSS - React - Vue -Python - C - Java
+
+---
+
 ## 📚 Atualmente estudando:
 
-- 🎯 Tecnologias Front-End com **JavaScript**, **Vue.js** e **React.js**
+- 🎯 Qualidade e Automação de Testes de Software
 - 📚 Pesquisa científica e análise de dados
 - 🛠️ Metodologias Ágeis como Scrum e Kanban
 
@@ -47,7 +67,18 @@ Desenvolvedora Front-End | Apaixonada por Tecnologia e Educação | Em busca de 
 
 🧪 Fui bolsista PIBIC, realizando pesquisas acadêmicas, revisão de literatura e organização de cursos de Fundamentos de Programação para alunos ingressantes na UFC.
 
-📝 Atuei como voluntária em projeto de pesquisa e extensão, contribuindo com a redação de artigo científico, análise de dados, apoio em cursos de Git e GitHub na prática e produção de conteúdo para mídias e redes sociais acadêmicas.
+📚 Fui bolsista PAIP, apoiando estudantes de Engenharia de Software e Ciência da Computação com orientação acadêmica, suporte burocrático e ações de combate à evasão universitária.
+
+📝 Atuei como voluntária em projeto de pesquisa e extensão, contribuindo com:
+
+- Redação de artigo científico  
+- Análise de dados  
+- Apoio em cursos de Git e GitHub na prática  
+- Produção de conteúdo para mídias e redes sociais acadêmicas
+  
+---
+
+✨ Sempre aberta a aprender, colaborar e enfrentar novos desafios na área de Desenvolvimento e Qualidade de Software.
 
 ---
 
